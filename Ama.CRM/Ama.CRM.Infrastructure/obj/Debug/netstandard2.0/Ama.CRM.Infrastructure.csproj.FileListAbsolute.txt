@@ -1,0 +1,5 @@
+D:\Ama\Ama.CRM\Ama.CRM.Infrastructure\bin\Debug\netstandard2.0\Ama.CRM.Infrastructure.deps.json
+D:\Ama\Ama.CRM\Ama.CRM.Infrastructure\bin\Debug\netstandard2.0\Ama.CRM.Infrastructure.dll
+D:\Ama\Ama.CRM\Ama.CRM.Infrastructure\obj\Debug\netstandard2.0\Ama.CRM.Infrastructure.csprojAssemblyReference.cache
+D:\Ama\Ama.CRM\Ama.CRM.Infrastructure\obj\Debug\netstandard2.0\Ama.CRM.Infrastructure.AssemblyInfoInputs.cache
+D:\Ama\Ama.CRM\Ama.CRM.Infrastructure\obj\Debug\netstandard2.0\Ama.CRM.Infrastructure.AssemblyInfo.cs
